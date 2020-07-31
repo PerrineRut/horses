@@ -1,0 +1,7 @@
+title: UrbanVitaliz
+email: friches@beta.gouv.fr
+lang: fr
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
