@@ -1,7 +1,0 @@
-title: Horses
-email: test@test.fr
-lang: fr
-
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
